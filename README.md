@@ -1,1 +1,0 @@
-# BSQ_ruby
